@@ -1066,7 +1066,7 @@ An OS where processing of input must occur within specified time constraints.
 This gives you the complete structure of the chapter at a glance.
 
 <h2>MINDMAP</h2>
-<img src="./" alt="Project Screenshot" width="300" height="200">
+[image.png](https://github.com/princevegetasupersiyaan-cloud/LJ-os-sem3-chapter1-explained/blob/ec7db0e9068e5fc96eac28b2158e854aa9cb6c28/image.png)
 
 ## Operating System – Chapter 1
 
